@@ -1,0 +1,8 @@
+## Practica 2 - Sistemas de Busqueda
+
+#### Prolog:
+Implementación en prolog del problema. Utilizando la técnica de backtracking
+
+#### A*:
+Implementación en python del problema. Utilizando el algoritmo de exploración de grafos A*
+
