@@ -1,0 +1,6 @@
+FSI-LISP Alvaro Martin Lopez 70960937A almarlop1998@usal.es PB2
+
+· El algoritmo de unificación está en unificacion.lisp
+· Al ejecutarlo con clisp se inician las pruebas preparadas, mostrando los resultados
+por pantalla
+· Estas pruebas han sido guardadas en el fichero pruebas.txt

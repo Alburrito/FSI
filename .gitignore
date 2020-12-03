@@ -1,0 +1,11 @@
+TeoriaFSI/
+
+# Informes
+*.pdf
+*.docx
+
+# Imagenes
+*.png
+*.jpg
+*.jpeg
+
