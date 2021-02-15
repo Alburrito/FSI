@@ -1,0 +1,11 @@
+Álvaro Martín López 70960937A almarlop1998@usal.es
+
+Aunque creo que todo esta bien el programa no funciona correctamente.
+He comprobado que las reglas estén bien escritas, que comprueben todo lo necesario y estén correctamente categorizadas
+en el caso del sistema de metaconocimiento.
+Los botones actualizan las variables que, a su vez actualizan los atributos correctamente.
+
+Según las notas parece que alguna regla tiene problemas de inconsistencia pero no he logrado alcanzar a comprender el
+por qué.
+
+Aun así, la lógica debería estar bien.
